@@ -7,8 +7,8 @@ public class Message {
     public String magic = "CSM218";
     public int version = 1;
     public String messageType = "NONE";
-    public String sender = "Muzi";
-    public String studentId = "N02221251V"; 
+    public String sender = "Faith";
+    public String studentId = "N02217816B"; 
     public long timestamp = System.currentTimeMillis();
     public byte[] payload = new byte[0];
 
